@@ -1,0 +1,6 @@
+# Minimal configuration so GitHub Pages renders these two pages with a readable theme.
+# Nothing else is in this repository: it exists to publish the marketing and privacy pages
+# for the Kelp app, and holds no application source.
+title: Kelp
+description: A video app for a server you run yourself.
+theme: jekyll-theme-minimal
